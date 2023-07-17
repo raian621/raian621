@@ -7,7 +7,7 @@
 
 📫 How to reach me **ryan.bell62101@gmail.com**
 
-⚡ Fun fact **I think I already have imposter syndrome******
+⚡ Fun fact **I think I already have imposter syndrome**
 
 ###
 
