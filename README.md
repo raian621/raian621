@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [KanbanHub](https://github.com/raian621/kanban-hub)
 
-🌱 I’m currently learning **full stack web dev (ez), machine learning (medium), how to talk to women (hard / impossible)**
+🌱 I’m currently learning **full stack web dev
 
 📫 How to reach me **ryan.bell62101@gmail.com**
 
