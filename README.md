@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Graduating with BS in Computer Science @ UNT in 2024!</h3>
 
-🔭 I’m currently working on [GroupMeme](https://github.com/raian621/groupmeme)
+🔭 I’m currently working on [CatBook](https://github.com/raian621/catbook)
 
 🌱 I’m currently learning **full stack web dev**
 
