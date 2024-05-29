@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Graduating with BS in Computer Science @ UNT in 2024!</h3>
 
-🔭 I’m currently working on **homework**
+🔭 I’m currently working on **job applications**
 
-🌱 I’m currently learning **full stack web dev**
+🌱 I’m currently learning **Rust**
 
 📫 How to reach me **ryan.bell62101@gmail.com**
 
