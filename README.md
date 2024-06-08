@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">Recent UNT CS grad and software engineer</h3>
+<h3 align="center">Recent UNT CS grad, aspiring software engineer</h3>
 
-🔭 I’m currently working on **job applications**
+🔭 I’m currently working on **a Minecraft server hosting platform**
 
 🌱 I’m currently learning **Rust**
 
@@ -11,11 +11,11 @@
 
 ###
 
-<h2 align="center">Programmin' Languages</h2>
+<h2>Programmin' Languages</h2>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
@@ -39,11 +39,11 @@
 
 ###
 
-<h2 align="center">Libraries & Frameworks</h2>
+<h2>Libraries & Frameworks</h2>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="35" alt="nextjs logo"  />
@@ -61,11 +61,11 @@
 
 ###
 
-<h2 align="center">Tools & Technologies</h2>
+<h2>Tools & Technologies</h2>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="35" alt="kubernetes logo"  />
@@ -79,19 +79,19 @@
 
 ###
 
-<h2 align="center">GitHub  Stats</h2>
+<h2>GitHub  Stats</h2>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com?user=raian621&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raian621&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="center">LeetCode Stats</h2>
+<h2>LeetCode Stats</h2>
 
-<div align="center">
+<div>
   <img src="https://leetcard.jacoblin.cool/raian621" alt="LeetCode statistics for raian621"/>
 </div>
