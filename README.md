@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Recent UNT CS grad, aspiring software engineer</h3>
 
-🔭 I’m currently working on **a Minecraft server hosting platform**
+🔭 I’m currently working on **side projects and job applications**
 
-🌱 I’m currently learning **Rust**
+🌱 I’m currently learning **AWS**
 
 📫 How to reach me **ryan.bell62101@gmail.com**
 
