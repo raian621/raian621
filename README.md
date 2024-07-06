@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **side projects and job applications**
 
-🌱 I’m currently learning **AWS**
+🌱 I’m currently learning **Ruby on Rails**
 
 📫 How to reach me **ryan.bell62101@gmail.com**
 
