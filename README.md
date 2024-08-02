@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Recent UNT CS grad, aspiring software engineer</h3>
 
-🔭 I’m currently working on **side projects and job applications**
+🔭 I’m currently working on **[FastCA](https://github.com/raian621/fast-ca)**
 
 🌱 I’m currently learning **Ruby on Rails**
 
