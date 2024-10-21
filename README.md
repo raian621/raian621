@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">Software Engineering Software with Software Engineers</h3>
+<h3 align="center">Software Engineering Software</h3>
 
 🔭 I’m currently working on **[Obsync](https://github.com/raian621/obsync-server)**
 
