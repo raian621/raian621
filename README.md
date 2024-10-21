@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Recent UNT CS grad, aspiring software engineer</h3>
 
-🔭 I’m currently working on **[FastCA](https://github.com/raian621/fast-ca)**
+🔭 I’m currently working on **[Obsync](https://github.com/raian621/obsync-server)**
 
-🌱 I’m currently learning **Ruby on Rails**
+🌱 I’m currently learning **competitive programming**
 
 📫 How to reach me **ryan.bell62101@gmail.com**
 
