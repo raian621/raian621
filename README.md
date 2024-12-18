@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Software Engineering Software</h3>
 
-🔭 I’m currently working on **[Obsync](https://github.com/raian621/obsync-server)**
+🔭 I’m currently working at **Google**
 
 🌱 I’m currently learning **competitive programming**
 
