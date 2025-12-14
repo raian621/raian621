@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **competitive programming**
 
-📫 How to reach me **ryan.bell62101@gmail.com**
+📫 How to reach me **ryanzbell@proton.me**
 
 ⚡ Fun fact **I think I already have imposter syndrome**
 
